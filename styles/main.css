@@ -210,6 +210,10 @@ html, body {
 }
 
 /* custom */
+.mdl-data-table td {
+    text-align: center !important;
+}
+
 .ball_grey {
     font-size: 1.7rem;
     font-weight: 700;
@@ -222,6 +226,7 @@ html, body {
 .ball_red {
     font-size: 1.7rem;
     font-weight: 700;
+    box-shadow: 0 0 0.85rem #ccc inset;
     border: 1px solid #000;
     color: #000;
     background-color: #ffdf00;
@@ -288,3 +293,5 @@ background-color: #F0F0F6;
 .high { background-color: #EBFAEB !important; }
 .matrix { background-color: #000 !important; color: #fff !important; font-weight: bold !important; }
 .rowone { background-color: #fff !important; }
+.main_nums { background-color: rgb(33,150,243) !important; color: #fff !important; font-weight: bold !important; }
+.mega_ball { background-color: #d50000 !important; color: #fff !important; font-weight: bold !important; }

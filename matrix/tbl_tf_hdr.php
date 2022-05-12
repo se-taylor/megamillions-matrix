@@ -1,8 +1,7 @@
 <table id="myTable" class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
 <thead>
 <tr>
-    <th class="mdl-data-table__cell--non-numeric"># Count</th>
-    <th>#</th>
+    <th class="mdl-data-table__cell--non-numeric">#</th>
     <th>M(x)</th>
     <th>mAVG</th>
     <th>E(x)</th>

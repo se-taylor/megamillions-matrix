@@ -8,7 +8,7 @@ require 'head.php';
           <section class="section mdl-grid mdl-grid--no-spacing">
             <div class="mdl-cell mdl-cell--12-col">
             <h4><?php echo $title_pbm; ?></h4>
-            <div class="mdl-components__information">The Tuesday page is showing a matrix of winning numbers and their averages restricted to Tuesday only.</div>
+            <div class="mdl-components__information">The Tuesday page is showing a matrix of winning numbers and their averages restricted to Tuesday only. <i>Only results since October 31, 2017 are included.</i></div>
 
 <?php require 'matrix/tbl_tf_hdr.php'; ?>
 

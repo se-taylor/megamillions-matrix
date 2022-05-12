@@ -1,6 +1,6 @@
 ## Overview
 
-The Mega Millions Matrix is something I created from The Powerball Matrix.
+The Mega Millions Matrix - a product of my obsession with numbers.
 
 The Mega Millions spider collects the winning numbers from the interwebs, then updates this site automatically within a few hours after the drawings are made, twice a week.
 
@@ -9,10 +9,11 @@ The Mega Millions spider collects the winning numbers from the interwebs, then u
 | Feature                                | Summary                                                                                                                                                                                                                                                     |
 |----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Wining Numbers  | The Mega Millions Winning Numbers page is a display of all winning numbers in the order they were drawn from every date on Tuesday & Friday Beginning 2002.  |
-| Matrix  | The Mega Millions Matrix page is showing the numbers 1 - 70 in the black column, and to the left of this, it shows how many times that number was drawn overall. To the right of this column, is the in-order drawn matrix to show how many times each number was drawn in that exact order. Colored cells help create a heatmap effect based on the number contained in that cell, using Red, Yellow & Green.  |
-| Averages  | The Averages page is showing a matrix of the winning numbers averages.  |
-| Tuesday  | The Tuesday page is showing a matrix of winning numbers and their averages restricted to Tuesday only.  |
-| Friday  | The Friday page is showing a matrix of winning numbers and their averages restricted to Friday only.  |
+| Matrix  | The Mega Millions Matrix page is showing the numbers 1 - 70 in the black column, and to the left of this, it shows how many times that number was drawn overall. To the right of this column, is the in-order drawn matrix to show how many times each number was drawn in that exact order. Colored cells help create a heatmap effect based on the number contained in that cell, using Red, Yellow & Green. Only results since October 31, 2017 are included.  |
+| Averages  | The Averages page is showing a matrix of the winning numbers averages. Only results since October 31, 2017 are included.  |
+| Frequency  | Only results since October 31, 2017 are included, which is the date that Mega Millions changed their game matrix to 70 main balls and 25 Mega Balls.  |
+| Tuesday  | The Tuesday page is showing a matrix of winning numbers and their averages restricted to Tuesday only. Only results since October 31, 2017 are included.  |
+| Friday  | The Friday page is showing a matrix of winning numbers and their averages restricted to Friday only. Only results since October 31, 2017 are included.  |
 
 ## Browser Support
 
@@ -29,7 +30,7 @@ This is not to say that The Mega Millions Matrix cannot be used in browsers olde
 
 ## Inspiration
 
-Please see The Powerball Matrix.
+Mega Millions, my obsession with numbers and my laziness to maintain spreadsheets.
 
 ## Contributing
 

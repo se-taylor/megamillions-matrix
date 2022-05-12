@@ -1,8 +1,8 @@
 <script>
 var t = '<table>',
     rows = 70,
-    cols = 8,
-    max = 20;
+    cols = 6,
+    max = 45;
 $('table td').each(function(){
     var c = 'high',
         t = $(this),

@@ -19,7 +19,7 @@ require 'head.php';
     <th>G(x)</th> 
     <th>A(x)</th> 
     <th>MM(x)</th> 
-    <th>BALL</th> 
+    <th>BALL(x)</th> 
     <th>MEGAPLIER</th> 
 </tr> 
 </thead> 

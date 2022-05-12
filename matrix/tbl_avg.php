@@ -1,6 +1,5 @@
 <?php
 
-$new_array = array();
 foreach ($array as $line) {
     $line_array = explode(" ", $line);
     $wp1[] = $line_array[0];
@@ -8,7 +7,6 @@ foreach ($array as $line) {
     $wp3[] = $line_array[2];
     $wp4[] = $line_array[3];
     $wp5[] = $line_array[4];
-    $pball[] = $line_array[5];
 }
 
 foreach(range(1, 70) as $key => $number) {
@@ -48,12 +46,6 @@ echo number_format($average, 2).'%';
 echo "</td><td>";
 
 $pbp = implode(',', $wp5);
-$average = (substr_count($pbp,$number) / substr_count($qwe,$number))*100;
-echo number_format($average, 2).'%';
-
-echo "</td><td>";
-
-$pbp = implode(',', $pball);
 $average = (substr_count($pbp,$number) / substr_count($qwe,$number))*100;
 echo number_format($average, 2).'%';
 

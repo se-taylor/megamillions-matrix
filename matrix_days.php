@@ -1,6 +1,6 @@
 <?php
 $pbm = ' : ';
-$title_pbm = 'Friday + Averages';
+$title_pbm = 'Days + Averages';
 require 'head.php';
 ?>
 
@@ -8,13 +8,13 @@ require 'head.php';
           <section class="section mdl-grid mdl-grid--no-spacing">
             <div class="mdl-cell mdl-cell--12-col">
             <h4><?php echo $title_pbm; ?></h4>
-            <div class="mdl-components__information">The Friday page is showing a matrix of winning numbers and their averages restricted to Friday only. <i>Only results since October 31, 2017 are included.</i></div>
+            <div class="mdl-components__information">This page is showing a matrix of winning numbers and their averages on Tuesday &amp; Friday. <i>Only results since October 31, 2017 are included.</i></div>
 
 <?php require 'matrix/tbl_tf_hdr.php'; ?>
 
 <?php
-$qwe = file_get_contents("csv/megamillions_friday_clean.csv");
-$array = file('csv/megamillions_friday_clean.csv');
+$qwe = file_get_contents("csv/megamillions_days_clean.csv");
+$array = file('csv/megamillions_days_clean.csv');
 ?>
 
 <?php

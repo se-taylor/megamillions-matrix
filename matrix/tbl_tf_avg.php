@@ -1,6 +1,5 @@
 <?php
 
-$new_array = array();
 foreach ($array as $line) {
     $line_array = explode(" ", $line);
     $wp1[] = $line_array[0];
@@ -16,7 +15,7 @@ $number = sprintf('%02d', $number);
 
 echo "<tr class='mdl-data-table__cell--non-numeric''>";
 if( is_numeric($key) ) {
-    echo "<td class='rowone'>".substr_count($qwe,$number)."</td>";
+    //echo "<td class='rowone'>".substr_count($qwe,$number)."</td>";
     echo "<td class='matrix'>".$number."</td>";
     }
 
