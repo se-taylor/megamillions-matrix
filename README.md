@@ -12,6 +12,7 @@ The Mega Millions spider collects the winning numbers from the interwebs, then u
 | Matrix  | The Mega Millions Matrix page is showing the numbers 1 - 70 in the black column, and to the left of this, it shows how many times that number was drawn overall. To the right of this column, is the in-order drawn matrix to show how many times each number was drawn in that exact order. Colored cells help create a heatmap effect based on the number contained in that cell, using Red, Yellow & Green. Only results since October 31, 2017 are included.  |
 | Averages  | The Averages page is showing a matrix of the winning numbers averages. Only results since October 31, 2017 are included.  |
 | Frequency  | Only results since October 31, 2017 are included, which is the date that Mega Millions changed their game matrix to 70 main balls and 25 Mega Balls.  |
+| Days  | This page is an overlay of both Tuesday and Friday combined. Only results since October 31, 2017 are included.  |
 | Tuesday  | The Tuesday page is showing a matrix of winning numbers and their averages restricted to Tuesday only. Only results since October 31, 2017 are included.  |
 | Friday  | The Friday page is showing a matrix of winning numbers and their averages restricted to Friday only. Only results since October 31, 2017 are included.  |
 
