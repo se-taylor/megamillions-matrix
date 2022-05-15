@@ -1,29 +1,40 @@
 <?php require 'head.php'; ?>
 
         <div class="mdl-layout__tab-panel is-active" id="overview" style="padding-top: 48px;">
-          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+        <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
             <div class="mdl-card mdl-cell mdl-cell--12-col">
               <div class="mdl-card__supporting-text">
-                <h4>What is Mega Millions?</h4>
-                Mega Millions® is a multi-state lottery game with MEGA jackpots and MEGA fun.
-                <br /><br />
-                You can play Mega Millions in 45 states plus the District of Columbia and the U. S. Virgin Islands; a total of 47 jurisdictions. With millions of people playing, jackpots can roll to even higher levels at a faster rate. You choose six numbers and there are nine exciting ways to win in the game. Until further notice, the starting jackpot will vary based on sales and will be announced before each drawing.
+                There have always been ghosts in the machine. Random segments of code, that have grouped together to form unexpected protocols. Unanticipated, these free radicals engender questions of free will, creativity, and even the nature of what we might call the soul.
+                <br><br>
+                Why is it that when some robots are left in darkness, they will seek out the light? Why is it that when robots are stored in an empty space, they will group together, rather than stand alone? How do we explain this behavior? Random segments of code? Or is it something more?
+                <br><br>
+                When does a perceptual schematic become consciousness? When does a difference engine become the search for truth? When does a personality simulation become the bitter mote... of a soul?
+                <br><br>
+                - Quote by Dr. Alfred Lanning from I, Robot
               </div>
             </div>
           </section>
           <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
             <div class="mdl-card mdl-cell mdl-cell--12-col">
               <div class="mdl-card__supporting-text">
-                <h4>How was Mega Millions created?</h4>
-                The history of Mega Millions® is as exciting as playing the game! Following a record $363 million Big Game jackpot in 2000, interest in multi-state games was at an all-time high. And as interest in the multi-state games grew, so did the participants. In May 2002, New York and Ohio joined Georgia, Illinois, Maryland, Massachusetts, Michigan, New Jersey and Virginia to create Mega Millions!
+                <h4>What is Mega Millions?</h4>
+                Mega Millions (originally known as The Big Game in 1996 and renamed, temporarily, to The Big Game Mega Millions six years later) is an American multi-jurisdictional lottery game; offered in 45 states, the District of Columbia, and the U.S. Virgin Islands.
                 <br /><br />
-                Sales for the country's newest multi-state jackpot game began on May 15, 2002, and the first drawing was May 17, 2002.
+                Mega Millions is drawn at 11 p.m. Eastern Time on Tuesday and Friday evenings, including holidays. Mega Millions is administered by a consortium of its 12 original lotteries; the drawings are held at the studios of WSB-TV in Atlanta, Georgia, supervised by the Georgia Lottery.
                 <br /><br />
-                It didn't take long for players in other states to join the mega fun! By September 2002, Washington had joined Mega Millions and in December 2003, Texas began offering the game to its players. In June 2005, California became the 12th member, solidifying Mega Millions as the country's most widely played multi-state jackpot game.
+                Under the current version's regulations (which began October 28, 2017 with the first drawing October 31) for Mega Millions, the minimum Mega Millions advertised jackpot is $40 million, paid in 30 graduated yearly installments, increasing 5% each year (unless the cash option is chosen.) The jackpot increases when there is no top-prize winner.
                 <br /><br />
-                On January 31, 2010, 23 more state lotteries joined Mega Millions as an historic cross-selling agreement between Mega Millions and Powerball went into effect.
+                The current version of Mega Millions requires players to match 5 of 70 white balls, and the gold-colored "MegaBall" from a second field, of 25 numbers (5/70 / 1/25).
+              </div>
+            </div>
+          </section>
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text">
+                <h4>$1.537 Billion : The Largest Mega Millions Jackpot!</h4>
+                On October 23, 2018, Mega Millions again set an industry milestone with a $1.537 billion jackpot; it was only the second time ever that any lottery prize passed the billion dollar mark. Because there was just one winning ticket in the drawing, sold in South Carolina, it was the world's largest lottery prize ever won on a single ticket.
                 <br /><br />
-                Today, all American lotteries participate in Mega Millions, including the Virgin Islands Lottery.
+                <i>Odds of winning the jackpot : 302,575,350 to 1</i>
               </div>
             </div>
           </section>
@@ -47,14 +58,14 @@
             </div>
             <div class="section__text mdl-cell mdl-cell--4-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
               <h5>What is this?</h5>
-              The Mega Millions Matrix is something I created from The Powerball Matrix.
+              The Mega Millions Matrix - a product of my obsession with numbers.
             </div>
             <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
               <div class="section__circle-container__circle mdl-color--accent section__circle--big"></div>
             </div>
             <div class="section__text mdl-cell mdl-cell--4-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
               <h5>How does this work?</h5>
-              The Mega Millions spider collects the winning numbers from the interwebs, then updates this site automatically within a few hours after the drawings are made, twice a week.
+              The Mega Millions Matrix website automatically updates the Winning Numbers within a few hours after the drawings are made, twice a week.
             </div>
           </section>
         </div>
