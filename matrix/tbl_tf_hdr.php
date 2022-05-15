@@ -3,17 +3,17 @@
 <tr>
     <th class="mdl-data-table__cell--non-numeric">#</th>
     <th>M(x)</th>
-    <th>mAVG</th>
+    <th>M(avg)</th>
     <th>E(x)</th>
-    <th>eAVG</th>
+    <th>E(avg)</th>
     <th>G(x)</th>
-    <th>gAVG</th>
+    <th>G(avg)</th>
     <th>A(x)</th>
-    <th>aAVG</th>
+    <th>A(avg)</th>
     <th>MM(x)</th>
-    <th>mmAVG</th>
-    <th>BALL(x)</th>
-    <th>ballAVG</th>
+    <th>MM(avg)</th>
+    <th>MEGABALL(x)</th>
+    <th>MEGABALL(avg)</th>
 </tr>
 </thead>
 <tbody>

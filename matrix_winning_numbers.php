@@ -14,12 +14,12 @@ require 'head.php';
 <thead> 
 <tr> 
     <th class="mdl-data-table__cell--non-numeric">Draw Date</th>
-    <th>M(x)</th> 
-    <th>E(x)</th> 
-    <th>G(x)</th> 
-    <th>A(x)</th> 
-    <th>MM(x)</th> 
-    <th>BALL(x)</th> 
+    <th>M</th> 
+    <th>E</th> 
+    <th>G</th> 
+    <th>A</th> 
+    <th>MM</th> 
+    <th>MEGABALL</th> 
     <th>MEGAPLIER</th> 
 </tr> 
 </thead> 
