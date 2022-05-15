@@ -57,14 +57,16 @@
               <div class="section__circle-container__circle mdl-color--accent section__circle--big"></div>
             </div>
             <div class="section__text mdl-cell mdl-cell--4-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-              <h5>What is this?</h5>
+              <h5>What is this site about?</h5>
               The Mega Millions Matrix - a product of my obsession with numbers.
+              <br /><br />
+              Only results since October 31, 2017 are displayed, which is the date that Mega Millions changed their game matrix to (5/70 / 1/25).
             </div>
             <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
               <div class="section__circle-container__circle mdl-color--accent section__circle--big"></div>
             </div>
             <div class="section__text mdl-cell mdl-cell--4-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-              <h5>How does this work?</h5>
+              <h5>How does this site work?</h5>
               The Mega Millions Matrix website automatically updates the Winning Numbers within a few hours after the drawings are made, twice a week.
             </div>
           </section>

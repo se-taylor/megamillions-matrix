@@ -160,6 +160,7 @@ html, body {
   height: 100px;
   border-radius: 50px;
   margin: 8px 32px;
+  background-color: #ffdf00 !important;
 }
 .mdl-demo .is-small-screen section.section--footer .section__circle--big {
   width: 50px;
@@ -293,5 +294,5 @@ background-color: #F0F0F6;
 .high { background-color: #EBFAEB !important; }
 .matrix { background-color: #000 !important; color: #fff !important; font-weight: bold !important; }
 .rowone { background-color: #fff !important; }
-.main_nums { background-color: rgb(33,150,243) !important; color: #fff !important; font-weight: bold !important; }
-.mega_ball { background-color: #d50000 !important; color: #fff !important; font-weight: bold !important; }
+.main_nums { background-color: rgb(25,118,210)!important; color: #fff !important; font-weight: bold !important; }
+.mega_ball { background-color: #ffdf00 !important; color: #000 !important; font-weight: bold !important; }
