@@ -8,7 +8,7 @@ require 'head.php';
           <section class="section mdl-grid mdl-grid--no-spacing">
             <div class="mdl-cell mdl-cell--12-col">
             <h4><?php echo $title_pbm; ?></h4>
-            <div class="mdl-components__information"><i>Only results since October 31, 2017 are included</i>, which is the date that Mega Millions changed their game matrix to 70 main balls and 25 Mega Balls.</div>
+            <div class="mdl-components__information"><i>Only results since October 31, 2017 are included</i>, which is the date that Mega Millions changed their game matrix to 5/70 / 1/25.</div>
 
 <table id="myTable" class="mdl-data-table mdl-js-data-table mdl-shadow--2dp" style="float:left;width:50%;">
 <thead>
