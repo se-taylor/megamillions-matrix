@@ -60,7 +60,7 @@
               <h5>What is this site about?</h5>
               The Mega Millions Matrix - a product of my obsession with numbers.
               <br /><br />
-              Only results since October 31, 2017 are displayed, which is the date that Mega Millions changed their game matrix to (5/70 / 1/25).
+              Only results since October 31, 2017 are displayed, which is the date that Mega Millions changed their game matrix to 5/70 / 1/25.
             </div>
             <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
               <div class="section__circle-container__circle mdl-color--accent section__circle--big"></div>

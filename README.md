@@ -4,6 +4,8 @@ The Mega Millions Matrix - a product of my obsession with numbers.
 
 The Mega Millions Matrix website automatically updates the Winning Numbers within a few hours after the drawings are made, twice a week.
 
+Only results since October 31, 2017 are displayed, which is the date that Mega Millions changed their game matrix to 5/70 / 1/25.
+
 ### Features
 
 | Feature                                | Summary                                                                                                                                                                                                                                                     |
